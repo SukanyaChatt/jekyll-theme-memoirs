@@ -3,7 +3,7 @@ layout: post
 title:  " Udaipur - City Of Lakes"
 author: Sukanya
 categories: [ Lifestyle ]
-image: assets/images/udaipur1.jpg
+image: assets/images/udaipur_comp.jpg
 ---
 So we went on this Royal Udaipur Trip which. It was such a mesmerizing experience that we couldn’t leave the place for 10 days! We boarded the flight from Hyderabad on 13th Oct 3:30 pm flight –  
 
